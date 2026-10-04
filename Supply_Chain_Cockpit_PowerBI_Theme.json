@@ -1,0 +1,47 @@
+{
+    "name": "Supply Chain Cockpit",
+    "dataColors": [
+        "#0D9488",
+        "#2563EB",
+        "#CA8A04",
+        "#E11D48",
+        "#65A30D"
+    ],
+    "good": "#16794F",
+    "neutral": "#B45309",
+    "bad": "#B91C1C",
+    "maximum": "#0F766E",
+    "center": "#0D9488",
+    "minimum": "#E4F4F1",
+    "null": "#EAE7DE",
+    "background": "#FFFFFF",
+    "secondaryBackground": "#F6F5F2",
+    "foreground": "#1C2321",
+    "firstLevelElements": "#1C2321",
+    "secondLevelElements": "#5B665F",
+    "thirdLevelElements": "#E6E3D9",
+    "fourthLevelElements": "#95998F",
+    "tableAccent": "#0D9488",
+    "textClasses": {
+        "title": {
+            "fontSize": 12,
+            "fontFace": "Segoe UI Semibold",
+            "color": "#1C2321"
+        },
+        "header": {
+            "fontSize": 12,
+            "fontFace": "Segoe UI Semibold",
+            "color": "#1C2321"
+        },
+        "label": {
+            "fontSize": 10,
+            "fontFace": "Segoe UI",
+            "color": "#1C2321"
+        },
+        "callout": {
+            "fontSize": 32,
+            "fontFace": "Segoe UI Semibold",
+            "color": "#1C2321"
+        }
+    }
+}
